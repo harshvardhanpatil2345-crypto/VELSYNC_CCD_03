@@ -1,10 +1,3 @@
-Great idea 👍 — a good **README.md** makes your CI/CD project look professional and easy to understand.
-
-Here is a **ready-to-use README** for your project.
-You can copy this into a file named **README.md** in your project root.
-
----
-
 # 🚀 CI/CD Pipeline with GitHub Actions & Render
 
 This project demonstrates a complete **CI/CD (Continuous Integration & Continuous Deployment)** pipeline using **GitHub Actions** and **Render**.
